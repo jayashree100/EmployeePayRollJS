@@ -1,0 +1,47 @@
+{
+    "EmployeePayrollDB": [
+      {
+        "id": 1,
+        "_name": "Killua Zoldyck",
+        "_profileImage": "../assets/profile-images/profile_img-4.png",
+        "_gender": "Male",
+        "_department": [
+          "HR",
+          "Sales",
+          "Finance",
+          "Engineer",
+          "Others"
+        ],
+        "_salary": "500000",
+        "_notes": "I live in Kukuro Mountain. I am a trained assasin.",
+        "_startDate": "2021-10-10T00:00:00.000Z"
+      },
+      {
+        "id": 2,
+        "_name": "Gon Freecs",
+        "_profileImage": "../assets/profile-images/profile_img-2.png",
+        "_gender": "Male",
+        "_department": [
+          "HR",
+          "Sales",
+          "Finance"
+        ],
+        "_salary": "350000",
+        "_notes": "I need to find my father",
+        "_startDate": "2021-10-11T00:00:00.000Z"
+      },
+      {
+        "id": 3,
+        "_name": "Pam Beesly",
+        "_profileImage": "../assets/profile-images/profile_img-3.png",
+        "_gender": "Female",
+        "_department": [
+          "HR",
+          "Sales"
+        ],
+        "_salary": "300000",
+        "_notes": "I work at Dunder Mifflin",
+        "_startDate": "2021-10-16T00:00:00.000Z"
+      }
+    ]
+  }
